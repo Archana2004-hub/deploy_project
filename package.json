@@ -1,0 +1,14 @@
+{
+  "name": "deploy-your-application",
+  "version": "1.0.0",
+  "description": "Coding Activity 2.2 - Deploy Your Application",
+  "main": "http_server.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node http_server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "license": "ISC"
+}
